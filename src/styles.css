@@ -1,0 +1,16 @@
+#items {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  height: 5rem;
+  overflow: auto;
+}
+
+#items > div {
+  border: 1px solid #999;
+  margin: 0.5rem 0;
+}
+
+.highlight {
+  color: red;
+  font-weight: bold;
+}
